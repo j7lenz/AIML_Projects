@@ -9,4 +9,3 @@ In particular, the following applications/projects
 -Project #3
 -Project #4
 -Project #5- Plant Seedings Classification
--Project #6- NLP and Stock Market News Summarization
